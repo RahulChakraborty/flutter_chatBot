@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.green,
         accentColor: Colors.green,
       ),
+
       home: FlutterFactsChatBot(),
     );
   }

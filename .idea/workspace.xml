@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6c1e2198-d926-4fd8-956b-47a0cf8abfeb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/chatApiCall.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/flutter_chatBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/flutter_chatBot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/dialog_flow.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/dialog_flow.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,53 +28,16 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/dialog_flow.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../flutter_stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_dialogflow-0.1.3/lib/v2/message.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
-              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6P_API_30" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/lib/main.dart" />
-        <option value="$PROJECT_DIR$/lib/dialog_flow.dart" />
-      </list>
-    </option>
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -77,36 +53,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="11" />
-    <option name="y" value="27" />
-    <option name="width" value="1589" />
-    <option name="height" value="873" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="flutter_chatBot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_chatBot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="flutter_chatBot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="flutter_chatBot" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1hTxSouoU4IJPIu77A6AY8CcPI4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -114,20 +65,16 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -142,69 +89,118 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1600" height="875" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.32947233" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Dart Analysis" weight="0.32907802" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.114893615" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.4212766" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Flutter Outline" />
-      <window_info anchor="right" id="Palette&#9;" />
-    </layout>
+  <component name="WindowStateProjectService">
+    <state x="489" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1600316738963">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="489" y="237" key="#com.intellij.ide.util.MemberChooser/0.23.1920.982@0.23.1920.982" timestamp="1600316738963" />
+    <state x="890" y="292" key="#xdebugger.evaluate" timestamp="1600317755778">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="890" y="292" key="#xdebugger.evaluate/0.23.1920.982@0.23.1920.982" timestamp="1600317755778" />
+    <state x="727" y="225" key="#xdebugger.evaluate/0.23.1920.984@0.23.1920.984" timestamp="1600313179542" />
+    <state x="827" y="290" key="AndroidProcessChooserDialog" timestamp="1600288006402">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="827" y="290" key="AndroidProcessChooserDialog/0.23.1920.992@0.23.1920.992" timestamp="1600288006402" />
+    <state width="1719" height="465" key="GridCell.Tab.0.bottom" timestamp="1600354686769">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1719" height="465" key="GridCell.Tab.0.bottom/0.23.1920.982@0.23.1920.982" timestamp="1600354686769" />
+    <state width="1845" height="465" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1600313210170" />
+    <state width="1845" height="260" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1600312605211" />
+    <state width="1845" height="260" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1600312385598" />
+    <state width="1845" height="218" key="GridCell.Tab.0.bottom/0.23.1920.994@0.23.1920.994" timestamp="1600308725510" />
+    <state width="1719" height="465" key="GridCell.Tab.0.center" timestamp="1600354686768">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1719" height="465" key="GridCell.Tab.0.center/0.23.1920.982@0.23.1920.982" timestamp="1600354686768" />
+    <state width="1845" height="465" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1600313210164" />
+    <state width="1845" height="260" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1600312605211" />
+    <state width="1845" height="260" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1600312385598" />
+    <state width="1845" height="218" key="GridCell.Tab.0.center/0.23.1920.994@0.23.1920.994" timestamp="1600308725510" />
+    <state width="1719" height="465" key="GridCell.Tab.0.left" timestamp="1600354686768">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1719" height="465" key="GridCell.Tab.0.left/0.23.1920.982@0.23.1920.982" timestamp="1600354686768" />
+    <state width="1845" height="465" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1600313210162" />
+    <state width="1845" height="260" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1600312605210" />
+    <state width="1845" height="260" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1600312385597" />
+    <state width="1845" height="218" key="GridCell.Tab.0.left/0.23.1920.994@0.23.1920.994" timestamp="1600308725509" />
+    <state width="1719" height="465" key="GridCell.Tab.0.right" timestamp="1600354686768">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1719" height="465" key="GridCell.Tab.0.right/0.23.1920.982@0.23.1920.982" timestamp="1600354686768" />
+    <state width="1845" height="465" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1600313210165" />
+    <state width="1845" height="260" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1600312605211" />
+    <state width="1845" height="260" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1600312385598" />
+    <state width="1845" height="218" key="GridCell.Tab.0.right/0.23.1920.994@0.23.1920.994" timestamp="1600308725510" />
+    <state width="1845" height="260" key="GridCell.Tab.1.bottom" timestamp="1600311969839">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1845" height="260" key="GridCell.Tab.1.bottom/0.23.1920.991@0.23.1920.991" timestamp="1600289042544" />
+    <state width="1845" height="260" key="GridCell.Tab.1.bottom/0.23.1920.994@0.23.1920.994" timestamp="1600311969839" />
+    <state width="1845" height="260" key="GridCell.Tab.1.center" timestamp="1600311969838">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1845" height="260" key="GridCell.Tab.1.center/0.23.1920.991@0.23.1920.991" timestamp="1600289042543" />
+    <state width="1845" height="260" key="GridCell.Tab.1.center/0.23.1920.994@0.23.1920.994" timestamp="1600311969838" />
+    <state width="1845" height="260" key="GridCell.Tab.1.left" timestamp="1600311969838">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1845" height="260" key="GridCell.Tab.1.left/0.23.1920.991@0.23.1920.991" timestamp="1600289042543" />
+    <state width="1845" height="260" key="GridCell.Tab.1.left/0.23.1920.994@0.23.1920.994" timestamp="1600311969838" />
+    <state width="1845" height="260" key="GridCell.Tab.1.right" timestamp="1600311969839">
+      <screen x="0" y="23" width="1920" height="994" />
+    </state>
+    <state width="1845" height="260" key="GridCell.Tab.1.right/0.23.1920.991@0.23.1920.991" timestamp="1600289042544" />
+    <state width="1845" height="260" key="GridCell.Tab.1.right/0.23.1920.994@0.23.1920.994" timestamp="1600311969839" />
+    <state x="485" y="157" key="SettingsEditor" timestamp="1600049059385">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state x="485" y="157" key="SettingsEditor/0.23.1920.992@0.23.1920.992" timestamp="1600049059385" />
+    <state x="622" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1600312286957">
+      <screen x="0" y="23" width="1920" height="991" />
+    </state>
+    <state x="622" y="351" key="com.intellij.ide.util.TipDialog/0.23.1920.991@0.23.1920.991" timestamp="1600312286957" />
+    <state x="341" y="239" width="670" height="676" key="search.everywhere.popup" timestamp="1600319711501">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="341" y="239" width="670" height="676" key="search.everywhere.popup/0.23.1920.982@0.23.1920.982" timestamp="1600319711501" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/main.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../flutter_stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_dialogflow-0.1.3/lib/v2/message.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../flutter_stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_dialogflow-0.1.3/lib/v2/dialogflow_v2.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/dialog_flow.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="53" column="33" lean-forward="true" selection-start-line="53" selection-start-column="33" selection-end-line="53" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/dialog_flow.dart</url>
+          <line>89</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/dialog_flow.dart</url>
+          <line>76</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/dialog_flow.dart</url>
+          <line>84</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/chatApiCall.dart</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/chatApiCall.dart</url>
+          <line>39</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="masterDetails">
     <states>
